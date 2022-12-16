@@ -1,0 +1,57 @@
+
+header.header1 {
+    background-color: bisque;
+    display: block;
+    text-align: center;
+
+}
+
+
+nav.nav1 {
+    background-color: greenyellow;
+    text-align: center;
+
+
+
+}
+
+section.section1 {
+    background-color: rgb(212, 173, 66);
+
+
+
+}
+
+p.p1 {
+    background-color: rgb(223, 220, 39);
+    text-align: left;
+
+
+}
+
+
+span.span1 {
+    background-color: yellow;
+    color: blue;
+
+}
+
+footer.footer1 {
+    background-color: blue;
+    text-align: center;
+
+}
+
+
+section.section2 {
+    display:inline-block
+
+
+
+}
+
+
+
+
+
+
